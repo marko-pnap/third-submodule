@@ -1,0 +1,3 @@
+[submodule "nested-submodule"]
+	path = nested-submodule
+	url = https://github.com/marko-pnap/nested-submodule.git
